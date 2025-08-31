@@ -5,7 +5,7 @@ Check if NZL geodetic transformation files are available in an AWS hosted Postgr
 ## Prerequsites
 
 Create:
-1
+
 - An RDS instance running postgres
 - Make sure you have connectivity to it
 - I use an EC2 hosted in the same VPC, and use the PostgreSQL RDS setup wizard to create and associate appropriate Security Groups

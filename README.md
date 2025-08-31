@@ -26,7 +26,7 @@ You should see some output confirming/denying grid file availability.
 
 # Current outputs
 
-### Aurora Postgres 16
+### Aurora Postgres 16.8
 
 
 ```
